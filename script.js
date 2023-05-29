@@ -96,10 +96,10 @@ function valid()
     var username2 = username[1].split("").slice(0,5).join("")
     if(username2 !== 'gmail' && username2 !== 'email' )
     {
-        x.innerHTML="invalid mail"
+        x.innerHTML="Invalid mail"
     }       
     if(x.innerHTML=="") {
-        x.innerHTML="valid mail"   
+        x.innerHTML="Valid mail"   
 
     }   
     console.log(x.innerHTML)
