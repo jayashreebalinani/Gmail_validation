@@ -92,7 +92,7 @@ function valid()
     }
     
     var username2 = username[1].split("").slice(0,5).join("")
-    if(username2 !== 'gmail')
+    if(username2 !== 'gmail' )
     {
         x.innerHTML="Invalid mail"
     }       
@@ -103,3 +103,4 @@ function valid()
     console.log(x.innerHTML)
 
 }
+
