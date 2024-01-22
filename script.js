@@ -105,4 +105,3 @@ function valid()
     console.log(x.innerHTML)
 
 }
-
