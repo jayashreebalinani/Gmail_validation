@@ -98,7 +98,6 @@ function valid()
     }       
     if(x.innerHTML=="") {
         x.innerHTML="Valid mail"   
-
     }   
 
     
