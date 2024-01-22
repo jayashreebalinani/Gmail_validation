@@ -88,7 +88,6 @@ function valid()
     if(add < 6)
     {
         x.innerHTML="Invalid mail"
-        
     }
     
     var username2 = username[1].split("").slice(0,5).join("")
