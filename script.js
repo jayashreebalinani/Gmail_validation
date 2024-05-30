@@ -99,7 +99,5 @@ function valid()
         x.innerHTML="Valid mail"   
     }   
 
-    
     console.log(x.innerHTML)
-
 }
