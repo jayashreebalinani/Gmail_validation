@@ -1,5 +1,4 @@
 
-
 var arr = ["moc.","ude.","lim.", "ten.","gro.","tni.","vog."]
 function valid()
 {
