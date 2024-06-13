@@ -1,5 +1,5 @@
 
-var arr = ["moc.","ude.","lim.", "ten.","gro.","tni.","vog."]
+var arr = ["moc.","ude.","lim.", "ten.","gro.","tni.","vog.",""]
 function valid()
 {
     var x = document.getElementById("warn")
